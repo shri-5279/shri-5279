@@ -30,9 +30,6 @@
   <a href="https://github.com/shri-5279" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:stshri847@gmail.com?subject=Hello%20Shridhar%20(from%20GitHub)&body=Hi%20Shridhar%2C%0D%0A%0D%0AFound%20you%20via%20your%20GitHub%20profile.%20I%27d%20love%20to%20connect%20about...">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
