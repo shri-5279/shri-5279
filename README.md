@@ -16,7 +16,7 @@
 - 🧠 Currently diving deep into **Cloud Infrastructure Automation**, **RAG**, and **LLM integration**  
 - 🧰 Tech enthusiast with experience across **AWS, Azure, and DevOps pipelines**  
 - 🎯 Goal: To engineer intelligent and highly available cloud environments  
-- ✉️ Reach me at: **[your.email@example.com](mailto:your.email@example.com)**  
+- ✉️ Reach me at: **[stshri847@gmail.com](mailto:stshri847@gmail.com)**  
 - ⚡ Fun fact: I can troubleshoot faster than Jenkins can run a failed pipeline 😉
 
 ---
