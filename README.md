@@ -31,79 +31,58 @@
 </p>
 
 ---
-
 ## ⚙️ Tech Toolbox
 
-<!-- Compact centered grid with icons + labels -->
-<!-- Each cell is 110px wide so it stays aligned on desktop & mobile -->
+A blend of **Cloud, DevOps, Networking, and AI-driven Engineering** tools that power my everyday workflow 🚀  
 
-### ☁️ Cloud Platforms
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" /><br/>
-        <sub><b>AWS</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=azure" width="48" /><br/>
-        <sub><b>Azure</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=gcp" width="48" /><br/>
-        <sub><b>Google Cloud</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-### 🧰 DevOps & Automation
+### ☁️ Cloud, DevOps & Automation  
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/><sub><b>Docker</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/><sub><b>Kubernetes</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=terraform" width="48"/><br/><sub><b>Terraform</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=jenkins" width="48"/><br/><sub><b>Jenkins</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ansible" width="48"/><br/><sub><b>Ansible</b></sub></td>
-    </tr>
-    <tr>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nginx" width="48"/><br/><sub><b>Nginx</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/><sub><b>Linux</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br/><sub><b>GH Actions</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub><b>Git</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><sub><b>Postman</b></sub></td>
-    </tr>
-  </table>
-</div>
-
-### 💻 Programming & Scripting
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><sub><b>Python</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=bash" width="48"/><br/><sub><b>Bash</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub><b>Node.js</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=typescript" width="48"/><br/><sub><b>TypeScript</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub><b>React</b></sub></td>
-    </tr>
-  </table>
-</div>
-
-### 🗄️ Databases & Observability
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br/><sub><b>PostgreSQL</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><sub><b>MySQL</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br/><sub><b>Redis</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=prometheus" width="48"/><br/><sub><b>Prometheus</b></sub></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=grafana" width="48"/><br/><sub><b>Grafana</b></sub></td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,ansible,nginx,linux,githubactions,git,postman" /><br>
+  <b>AWS</b> • <b>Azure</b> • <b>Google Cloud</b> • <b>Docker</b> • <b>Kubernetes</b> • <b>Terraform</b> • <b>Jenkins</b> • <b>Ansible</b> • <b>Nginx</b> • <b>Linux</b> • <b>GitHub Actions</b> • <b>Git</b> • <b>Postman</b>
 </div>
 
 ---
+
+### 🌐 Networking & Cybersecurity  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=debian,ubuntu,cloudflare,windows,powershell" /><br>
+  <b>OSI & TCP/IP</b> • <b>VPN</b> • <b>DHCP/DNS</b> • <b>Firewall Management</b> • <b>Packet Analysis (Wireshark)</b> • <b>Secure Shell (SSH)</b> • <b>SSL/TLS</b> • <b>Access Control</b>
+</div>
+
+---
+
+### 💻 Programming & Frontend  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,nodejs,react" /><br>
+  <b>Python</b> • <b>C++</b> • <b>HTML5</b> • <b>CSS3</b> • <b>JavaScript</b> • <b>Node.js</b> • <b>React</b>
+</div>
+
+---
+
+### 🧠 Data Science & AI  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" /><br>
+  <b>NumPy</b> • <b>Pandas</b> • <b>Matplotlib</b> • <b>Scikit-Learn</b> • <b>TensorFlow</b> • <b>Machine Learning</b> • <b>Data Visualization</b>
+</div>
+
+---
+
+### 🗄️ Databases & Monitoring  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,prometheus,grafana" /><br>
+  <b>MySQL</b> • <b>PostgreSQL</b> • <b>Redis</b> • <b>Prometheus</b> • <b>Grafana</b>
+</div>
+
+---
+
+### 🧩 Tools & Platforms  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,steam,cloudflare,github" /><br>
+  <b>VS Code</b> • <b>Steam</b> • <b>Cloudflare</b> • <b>GitHub</b>
+</div>
+
 
 ## 📊 GitHub Analytics
 
