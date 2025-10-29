@@ -2,7 +2,7 @@
 ⭐ Star this repo if you like the design!
 -->
 
-<h1 align="center">Hey there, I'm Tridoe 👋</h1>
+<h1 align="center">Hey there, I'm Shridhar 👋</h1>
 
 <p align="center">
   🌩️ Cloud | ☁️ DevOps | 🤖 AI | 💡 Problem Solver <br/>
