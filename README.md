@@ -128,13 +128,6 @@
 
 ---
 
-## 💬 Dev Quote
-
-> “Automation is not the future — it’s the foundation of innovation.”  
-> — *Shridhar*
-
----
-
 ## 🪶 Activity Overview
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shri-5279&theme=react-dark&hide_border=true&bg_color=0D1117)
