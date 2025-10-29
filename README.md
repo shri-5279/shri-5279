@@ -126,7 +126,6 @@
 | 🚧 Project | 🔍 Description | ⚙️ Stack |
 |------------|----------------|----------|
 | **MCRP** | Multi-cloud monitoring platform for cost and uptime analytics | AWS, Azure, Postman, Terraform, Python |
-| **FitX120 AI** | Personalized fitness planner integrating LLM + Nutrition API | FastAPI, HuggingFace, MongoDB |
 
 ---
 
