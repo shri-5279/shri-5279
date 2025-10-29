@@ -6,18 +6,19 @@
 
 <p align="center">
   🌩️ Cloud | ☁️ DevOps | 🤖 AI | 💡 Problem Solver <br/>
-  Passionate about building scalable systems, intelligent automation, and cloud-native solutions.
+  Passionate about designing scalable systems, intelligent automation, and cloud-native architectures.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🧠 Currently diving deep into **Cloud Infrastructure Automation**, **RAG**, and **LLM integration**  
-- 🧰 Tech enthusiast with experience across **AWS, Azure, and DevOps pipelines**  
-- 🎯 Goal: To engineer intelligent and highly available cloud environments  
+- 🧭 On a journey toward becoming a **Cloud Solutions Architect**, focused on **designing secure, scalable, and cost-optimized infrastructures**  
+- 🧠 Currently exploring **Infrastructure as Code (IaC)**, **Multi-Cloud Architecture Design**, and **LLM-powered Automation**  
+- 🧰 Tech enthusiast with hands-on experience across **AWS, Azure, and DevOps pipelines**  
+- 🎯 Mission: To architect reliable, efficient, and intelligent systems that bridge cloud and AI  
 - ✉️ Reach me at: **[stshri847@gmail.com](mailto:stshri847@gmail.com)**  
-- ⚡ Fun fact: I can troubleshoot faster than Jenkins can run a failed pipeline 😉
+- ⚡ Fun fact: I automate so much that I sometimes forget how to do things manually 😅  
 
 ---
 
@@ -26,15 +27,41 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/TridoeZeus" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:stshri847@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ### ⚙️ Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,terraform,jenkins,nginx,ansible,python,bash,git,github,githubactions,vscode,react,nodejs,typescript,postgresql,mysql,redis,postman,prometheus,grafana" />
+#### ☁️ Cloud Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" /><br>
+  <b>AWS</b> • <b>Azure</b> • <b>Google Cloud</b>
+</p>
+
+#### 🧰 DevOps & Automation  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,ansible,nginx,linux" /><br>
+  <b>Docker</b> • <b>Kubernetes</b> • <b>Terraform</b> • <b>Jenkins</b> • <b>Ansible</b> • <b>Nginx</b> • <b>Linux</b>
+</p>
+
+#### 💻 Programming & Scripting  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,nodejs,typescript,react" /><br>
+  <b>Python</b> • <b>Bash</b> • <b>Node.js</b> • <b>TypeScript</b> • <b>React</b>
+</p>
+
+#### 🗄️ Databases & Monitoring  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,prometheus,grafana" /><br>
+  <b>PostgreSQL</b> • <b>MySQL</b> • <b>Redis</b> • <b>Prometheus</b> • <b>Grafana</b>
+</p>
+
+#### ⚒️ Tools & Utilities  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman" /><br>
+  <b>Git</b> • <b>GitHub</b> • <b>GitHub Actions</b> • <b>VS Code</b> • <b>Postman</b>
 </p>
 
 ---
@@ -74,7 +101,7 @@
 ### 💬 Dev Quote
 
 > “Automation is not the future — it’s the foundation of innovation.”  
-> — *Tridoe Zeus*
+> — *Shridhar*
 
 ---
 
@@ -85,6 +112,5 @@
 ---
 
 <p align="center">
-  <i>💡 Always learning, always building — one commit at a time.</i>
+  <i>💡 Always learning, always architecting — one cloud at a time.</i>
 </p>
-
