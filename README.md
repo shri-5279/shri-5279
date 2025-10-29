@@ -123,7 +123,7 @@
 
 | 🚧 Project | 🔍 Description | ⚙️ Stack |
 |------------|----------------|----------|
-| **CloudPulse** | Multi-cloud monitoring platform for cost and uptime analytics | AWS, Terraform, Grafana, Python |
+| **MCRP** | Multi-cloud monitoring platform for cost and uptime analytics | AWS, Azure, Postman, Terraform, Python |
 | **FitX120 AI** | Personalized fitness planner integrating LLM + Nutrition API | FastAPI, HuggingFace, MongoDB |
 
 ---
