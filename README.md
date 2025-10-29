@@ -13,20 +13,20 @@
 
 ### 🚀 About Me
 
-- 🧭 On a journey toward becoming a **Cloud Solutions Architect**, focused on **designing secure, scalable, and cost-optimized infrastructures**  
+- 🧭 Engaging towards **designing secure, scalable, and cost-optimized infrastructures**  
 - 🧠 Currently exploring **Infrastructure as Code (IaC)**, **Multi-Cloud Architecture Design**, and **LLM-powered Automation**  
 - 🧰 Tech enthusiast with hands-on experience across **AWS, Azure, and DevOps pipelines**  
 - 🎯 Mission: To architect reliable, efficient, and intelligent systems that bridge cloud and AI  
 - ✉️ Reach me at: **[stshri847@gmail.com](mailto:stshri847@gmail.com)**  
-- ⚡ Fun fact: I automate so much that I sometimes forget how to do things manually 😅  
+- ⚡ Fun fact: Automation numbs so much that I sometimes forget how to do things manually 😅  
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/TridoeZeus" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/shridhar-thangavel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/shri-5279" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/></a>
   <a href="mailto:stshri847@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
