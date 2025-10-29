@@ -17,8 +17,7 @@
 - 🧠 Currently exploring **Infrastructure as Code (IaC)**, **Multi-Cloud Architecture Design**, and **LLM-powered Automation**  
 - 🧰 Tech enthusiast with hands-on experience across **AWS, Azure, and DevOps pipelines**  
 - 🎯 Mission: To architect reliable, efficient, and intelligent systems that bridge cloud and AI  
-- ✉️ Reach me at: **[stshri847@gmail.com](mailto:stshri847@gmail.com)**  
-- ⚡ Fun fact: Automation numbs so much that I sometimes forget how to do things manually 😅  
+- ✉️ Reach me at: **[stshri847@gmail.com](mailto:stshri847@gmail.com)**   
 
 ---
 
