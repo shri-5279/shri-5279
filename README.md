@@ -121,7 +121,7 @@
 |------------|----------------|----------|
 | **PipeLine AI** | AI-powered CI/CD failure analysis - turns 40-minute debug sessions into 30-second answers using RAG and Agentic AI | AWS, Python, FastAPI, LangChain, Docker, Terraform |
 | **MCRP** | Multi-cloud monitoring platform for cost and uptime analytics | AWS, Azure, Postman, Terraform, Python |
-
+| **IntelLink** | AI-powered URL shortener with malicious link detection, real-time click analytics, and smart insights | Python, Redis, PostgreSQL, SQS, Claude API |
 ---
 
 ## 🪶 Activity Overview
