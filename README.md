@@ -98,91 +98,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=shri-5279&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&cache_seconds=86400"
-  />
-  <img height="180em"
-    src="https://streak-stats.demolab.com/?user=shri-5279&theme=radical&hide_border=true&background=0D1117&cache_seconds=86400"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shri-5279&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=shri-5279&theme=radical&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri-5279&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400&langs_count=8" />
-</p>
-
-<!-- Fallback static stats — always visible even if above images break -->
-<p align="center">
-<svg width="860" height="195" viewBox="0 0 860 195" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="r1"><rect width="420" height="195" rx="12"/></clipPath>
-    <clipPath id="r2"><rect width="420" height="195" rx="12"/></clipPath>
-  </defs>
-  <!-- Stats card -->
-  <g transform="translate(0,0)">
-    <rect width="420" height="195" rx="12" fill="#0D1117"/>
-    <rect width="420" height="195" rx="12" fill="none" stroke="#e1306c" stroke-width="1.2" stroke-opacity="0.6"/>
-    <text x="20" y="34" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="700" fill="#fe428e">Shridhar's GitHub Stats</text>
-    <text x="20" y="68" font-family="'Segoe UI',sans-serif" font-size="12" fill="#a9fef7">⭐ Total Stars Earned:</text>
-    <text x="260" y="68" font-family="'Segoe UI',sans-serif" font-size="12" font-weight="700" fill="#ffffff">2</text>
-    <text x="20" y="92" font-family="'Segoe UI',sans-serif" font-size="12" fill="#a9fef7">🔥 Total Commits (2024):</text>
-    <text x="260" y="92" font-family="'Segoe UI',sans-serif" font-size="12" font-weight="700" fill="#ffffff">37</text>
-    <text x="20" y="116" font-family="'Segoe UI',sans-serif" font-size="12" fill="#a9fef7">📦 Total PRs:</text>
-    <text x="260" y="116" font-family="'Segoe UI',sans-serif" font-size="12" font-weight="700" fill="#ffffff">8</text>
-    <text x="20" y="140" font-family="'Segoe UI',sans-serif" font-size="12" fill="#a9fef7">🚩 Total Issues:</text>
-    <text x="260" y="140" font-family="'Segoe UI',sans-serif" font-size="12" font-weight="700" fill="#ffffff">1</text>
-    <text x="20" y="164" font-family="'Segoe UI',sans-serif" font-size="12" fill="#a9fef7">🏆 Contributed to (last year):</text>
-    <text x="260" y="164" font-family="'Segoe UI',sans-serif" font-size="12" font-weight="700" fill="#ffffff">3</text>
-    <circle cx="370" cy="100" r="38" fill="none" stroke="#fe428e" stroke-width="3" stroke-dasharray="200 40" stroke-dashoffset="20"/>
-    <text x="370" y="95" font-family="'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#fe428e" text-anchor="middle">Rank</text>
-    <text x="370" y="113" font-family="'Segoe UI',sans-serif" font-size="18" font-weight="900" fill="#ffffff" text-anchor="middle">B+</text>
-  </g>
-  <!-- Streak card -->
-  <g transform="translate(440,0)">
-    <rect width="420" height="195" rx="12" fill="#0D1117"/>
-    <rect width="420" height="195" rx="12" fill="none" stroke="#e1306c" stroke-width="1.2" stroke-opacity="0.6"/>
-    <text x="140" y="48" font-family="'Segoe UI',sans-serif" font-size="22" font-weight="900" fill="#fe428e" text-anchor="middle">79</text>
-    <text x="140" y="66" font-family="'Segoe UI',sans-serif" font-size="11" fill="#a9fef7" text-anchor="middle">Total Contributions</text>
-    <text x="140" y="80" font-family="'Segoe UI',sans-serif" font-size="10" fill="#666" text-anchor="middle">Jan 17, 2021 – Present</text>
-    <line x1="213" y1="20" x2="213" y2="175" stroke="#30363d" stroke-width="1"/>
-    <line x1="306" y1="20" x2="306" y2="175" stroke="#30363d" stroke-width="1"/>
-    <text x="258" y="80" font-family="'Segoe UI',sans-serif" font-size="26" font-weight="900" fill="#ffa657" text-anchor="middle">0</text>
-    <text x="258" y="100" font-family="'Segoe UI',sans-serif" font-size="11" fill="#a9fef7" text-anchor="middle">Current Streak</text>
-    <text x="258" y="115" font-family="'Segoe UI',sans-serif" font-size="10" fill="#666" text-anchor="middle">May 24</text>
-    <text x="363" y="80" font-family="'Segoe UI',sans-serif" font-size="26" font-weight="900" fill="#58a6ff" text-anchor="middle">4</text>
-    <text x="363" y="100" font-family="'Segoe UI',sans-serif" font-size="11" fill="#a9fef7" text-anchor="middle">Longest Streak</text>
-    <text x="363" y="115" font-family="'Segoe UI',sans-serif" font-size="10" fill="#666" text-anchor="middle">Dec 3 – Dec 6, 2024</text>
-    <text x="140" y="150" font-family="'Segoe UI',sans-serif" font-size="28" text-anchor="middle">🔥</text>
-    <text x="258" y="150" font-family="'Segoe UI',sans-serif" font-size="22" text-anchor="middle">〰️</text>
-    <text x="363" y="150" font-family="'Segoe UI',sans-serif" font-size="22" text-anchor="middle">📅</text>
-  </g>
-</svg>
-</p>
-
-<p align="center">
-<svg width="440" height="175" viewBox="0 0 440 175" xmlns="http://www.w3.org/2000/svg">
-  <rect width="440" height="175" rx="12" fill="#0D1117"/>
-  <rect width="440" height="175" rx="12" fill="none" stroke="#e1306c" stroke-width="1.2" stroke-opacity="0.6"/>
-  <text x="20" y="30" font-family="'Segoe UI',sans-serif" font-size="14" font-weight="700" fill="#fe428e">Most Used Languages</text>
-  <text x="20" y="58" font-family="'Segoe UI',sans-serif" font-size="12" fill="#ffffff">Python</text>
-  <rect x="20" y="63" width="156" height="8" rx="4" fill="#3572A5"/>
-  <text x="184" y="72" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e">39.0%</text>
-  <text x="20" y="92" font-family="'Segoe UI',sans-serif" font-size="12" fill="#ffffff">HCL</text>
-  <rect x="20" y="97" width="100" height="8" rx="4" fill="#844FBA"/>
-  <text x="128" y="106" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e">24.44%</text>
-  <text x="20" y="126" font-family="'Segoe UI',sans-serif" font-size="12" fill="#ffffff">Shell</text>
-  <rect x="20" y="131" width="72" height="8" rx="4" fill="#89e051"/>
-  <text x="100" y="140" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e">17.87%</text>
-  <text x="230" y="58" font-family="'Segoe UI',sans-serif" font-size="12" fill="#ffffff">Dockerfile</text>
-  <rect x="230" y="63" width="50" height="8" rx="4" fill="#384d54"/>
-  <text x="288" y="72" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e">12.37%</text>
-  <text x="230" y="92" font-family="'Segoe UI',sans-serif" font-size="12" fill="#ffffff">JavaScript</text>
-  <rect x="230" y="97" width="24" height="8" rx="4" fill="#F1E05A"/>
-  <text x="262" y="106" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e">5.83%</text>
-  <text x="230" y="126" font-family="'Segoe UI',sans-serif" font-size="12" fill="#ffffff">Other</text>
-  <rect x="230" y="131" width="4" height="8" rx="4" fill="#555"/>
-  <text x="242" y="140" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e">0.49%</text>
-  <text x="20" y="165" font-family="'Segoe UI',sans-serif" font-size="10" fill="#444">* Based on public repositories</text>
-</svg>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri-5279&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" />
 </p>
 
 ---
