@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=Architecting+cloud+systems+that+scale+to+millions;Turning+40-min+debug+sessions+into+30-sec+answers;Infrastructure+as+Code+%E2%80%A2+Multi-Cloud+%E2%80%A2+LLM+Automation;Building+where+DevOps+meets+Artificial+Intelligence" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/%20LinkedIn%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shridhar-thangavel/)
 [![GitHub](https://img.shields.io/badge/%20GitHub%20-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shri-5279)
@@ -183,9 +183,10 @@ const shridhar = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shri-5279&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+
 <img height="180em" src="https://streak-stats.demolab.com/?user=shri-5279&theme=midnight-purple&hide_border=true&background=0D0B14&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E" />
 
+<br/>
 
 </div>
 
