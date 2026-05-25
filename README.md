@@ -186,7 +186,6 @@ const shridhar = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shri-5279&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://streak-stats.demolab.com/?user=shri-5279&theme=midnight-purple&hide_border=true&background=0D0B14&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E" />
 
-<br/>
 
 </div>
 
@@ -214,4 +213,4 @@ const shridhar = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=140&section=footer&text=Let's%20build%20something%20legendary&fontSize=22&fontColor=A78BFA&fontAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=140&section=footer&text=Let's%20build%20something%20LEGENDARY&fontSize=22&fontColor=A78BFA&fontAlignY=55&animation=fadeIn" />
