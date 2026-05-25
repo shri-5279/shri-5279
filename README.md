@@ -188,8 +188,6 @@ const shridhar = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri-5279&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=8B949E&langs_count=8" />
-
 </div>
 
 <br/>
