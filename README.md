@@ -58,11 +58,13 @@ const shridhar = {
 <div align="center">
 
 ### ☁️ &nbsp;Cloud Platforms
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### 🏗️ &nbsp;Infrastructure & Orchestration
+
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -71,6 +73,7 @@ const shridhar = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🔄 &nbsp;CI/CD & Observability
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -79,12 +82,14 @@ const shridhar = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🛡️ &nbsp;Security & Networking
+
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
 ![LetsEncrypt](https://img.shields.io/badge/SSL%2FTLS-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ### 💻 &nbsp;Languages & Frameworks
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -93,6 +98,7 @@ const shridhar = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 🤖 &nbsp;AI / ML
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -100,6 +106,7 @@ const shridhar = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🗄️ &nbsp;Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -117,6 +124,7 @@ const shridhar = {
 <div align="center">
 
 ### 🤖 &nbsp;PipeLine AI
+
 #### *AI-powered CI/CD failure analysis · RAG + Agentic AI*
 
 </div>
@@ -139,6 +147,7 @@ const shridhar = {
 <div align="center">
 
 ### ☁️ &nbsp;MCRP — Multi-Cloud Resource Platform
+
 #### *Unified observability across AWS + Azure*
 
 </div>
@@ -159,6 +168,7 @@ const shridhar = {
 <div align="center">
 
 ### 🔗 &nbsp;IntelLink
+
 #### *AI URL shortener with threat intelligence*
 
 </div>
@@ -183,23 +193,23 @@ const shridhar = {
 
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=shri-5279&theme=midnight-purple&hide_border=true&background=0D0B14&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E" />
-
-<br/>
-
-</div>
-
-<br/>
-
----
-
-## &nbsp;🏆 &nbsp;GitHub Trophies
-
-<div align="center">
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=shri-5279&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=F472B6&text_color=C9D1D9&ring_color=A78BFA"
+alt="Shridhar's GitHub Stats"
+/>
 
 <img
-src="https://github-profile-trophy-liard-delta.vercel.app/?username=shri-5279&theme=dracula&no-bg=true&no-frame=true&margin-w=12&row=1&column=6"
-alt="Shridhar's GitHub Trophies"
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri-5279&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=C9D1D9"
+alt="Shridhar's Top Languages"
+/>
+
+<br/><br/>
+
+<img
+src="https://streak-stats.demolab.com/?user=shri-5279&theme=midnight-purple&hide_border=true&background=0D0B14&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E"
+alt="Shridhar's GitHub Streak"
 />
 
 </div>
@@ -213,9 +223,9 @@ alt="Shridhar's GitHub Trophies"
 <div align="center">
 
 <img
-src="https://ghchart.rshah.org/7c3aed/shri-5279"
+src="https://github-readme-activity-graph.vercel.app/graph?username=shri-5279&bg_color=0D0B14&color=A78BFA&line=8B5CF6&point=F472B6&area=true&area_color=7C3AED&hide_border=true&custom_title=Shridhar%27s%20GitHub%20Contribution%20Graph"
 width="95%"
-alt="Shridhar's GitHub Contribution Activity"
+alt="Shridhar's GitHub Contribution Graph"
 />
 
 </div>
@@ -224,4 +234,16 @@ alt="Shridhar's GitHub Contribution Activity"
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=140&section=footer&text=Let's%20build%20something%20LEGENDARY&fontSize=22&fontColor=A78BFA&fontAlignY=55&animation=fadeIn" />
+<div align="center">
+
+### ⚡ Building. Learning. Shipping.
+
+`Cloud` &nbsp;•&nbsp; `DevOps` &nbsp;•&nbsp; `Infrastructure` &nbsp;•&nbsp; `AI`
+
+<br/><br/>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=140&section=footer&text=Let's%20build%20something%20LEGENDARY&fontSize=22&fontColor=A78BFA&fontAlignY=55&animation=fadeIn"
+/>
+
+</div>
