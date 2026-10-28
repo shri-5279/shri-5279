@@ -189,43 +189,50 @@ const shridhar = {
 
 ---
 
-## &nbsp;📊 &nbsp;GitHub Analytics
+## &nbsp;📊 &nbsp;GitHub Intelligence
 
 <div align="center">
 
 <img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=shri-5279&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=F472B6&text_color=C9D1D9&ring_color=A78BFA"
-alt="Shridhar's GitHub Stats"
-/>
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri-5279&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=C9D1D9"
-alt="Shridhar's Top Languages"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shri-5279&theme=2077"
+width="95%"
+alt="Shridhar Thangavel GitHub Profile Details"
 />
 
 <br/><br/>
 
 <img
-src="https://streak-stats.demolab.com/?user=shri-5279&theme=midnight-purple&hide_border=true&background=0D0B14&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E"
-alt="Shridhar's GitHub Streak"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shri-5279&theme=2077"
+height="180em"
+alt="Shridhar GitHub Statistics"
 />
-
-</div>
-
-<br/>
-
----
-
-## &nbsp;📈 &nbsp;Contribution Activity
-
-<div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=shri-5279&bg_color=0D0B14&color=A78BFA&line=8B5CF6&point=F472B6&area=true&area_color=7C3AED&hide_border=true&custom_title=Shridhar%27s%20GitHub%20Contribution%20Graph"
-width="95%"
-alt="Shridhar's GitHub Contribution Graph"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shri-5279&theme=2077"
+height="180em"
+alt="Repositories Per Language"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shri-5279&theme=2077"
+height="180em"
+alt="Most Used Commit Languages"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shri-5279&theme=2077&utcOffset=-4"
+height="180em"
+alt="Most Productive Coding Time"
+/>
+
+<br/><br/>
+
+<img
+src="https://streak-stats.demolab.com/?user=shri-5279&theme=midnight-purple&hide_border=true&background=0D0B14&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakNum=C084FC&sideNums=C084FC&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E"
+width="70%"
+alt="Shridhar GitHub Contribution Streak"
 />
 
 </div>
@@ -234,11 +241,41 @@ alt="Shridhar's GitHub Contribution Graph"
 
 ---
 
+## &nbsp;🧠 &nbsp;Engineering Focus
+
 <div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+<strong>☁️ Cloud</strong><br/>
+<sub>AWS · Azure · GCP</sub>
+</td>
+
+<td align="center" width="25%">
+<strong>⚙️ DevOps</strong><br/>
+<sub>CI/CD · IaC · Automation</sub>
+</td>
+
+<td align="center" width="25%">
+<strong>☸️ Platform</strong><br/>
+<sub>Kubernetes · Docker · Linux</sub>
+</td>
+
+<td align="center" width="25%">
+<strong>🤖 AI Systems</strong><br/>
+<sub>RAG · Agents · LLM Automation</sub>
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 ### ⚡ Building. Learning. Shipping.
 
-`Cloud` &nbsp;•&nbsp; `DevOps` &nbsp;•&nbsp; `Infrastructure` &nbsp;•&nbsp; `AI`
+`Cloud Architecture` &nbsp;•&nbsp; `DevOps Engineering` &nbsp;•&nbsp; `Platform Engineering` &nbsp;•&nbsp; `AI Systems`
 
 <br/><br/>
 
