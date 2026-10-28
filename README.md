@@ -195,43 +195,55 @@ const shridhar = {
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shri-5279&theme=2077"
-width="95%"
-alt="Shridhar Thangavel GitHub Profile Details"
+width="96%"
+alt="Shridhar Thangavel GitHub Profile Overview"
 />
 
 <br/><br/>
 
+<table>
+<tr>
+
+<td width="25%" align="center" valign="top">
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shri-5279&theme=2077"
-height="180em"
-alt="Shridhar GitHub Statistics"
+width="100%"
+alt="GitHub Statistics"
 />
+</td>
 
+<td width="25%" align="center" valign="top">
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shri-5279&theme=2077"
-height="180em"
-alt="Repositories Per Language"
+width="100%"
+alt="Top Languages by Repository"
 />
+</td>
 
-<br/><br/>
-
+<td width="25%" align="center" valign="top">
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shri-5279&theme=2077"
-height="180em"
-alt="Most Used Commit Languages"
+width="100%"
+alt="Top Languages by Commit"
 />
+</td>
 
+<td width="25%" align="center" valign="top">
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shri-5279&theme=2077&utcOffset=-4"
-height="180em"
-alt="Most Productive Coding Time"
+width="100%"
+alt="Coding Activity by Time"
 />
+</td>
 
-<br/><br/>
+</tr>
+</table>
+
+<br/>
 
 <img
 src="https://streak-stats.demolab.com/?user=shri-5279&theme=midnight-purple&hide_border=true&background=0D0B14&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakNum=C084FC&sideNums=C084FC&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E"
-width="70%"
+width="66%"
 alt="Shridhar GitHub Contribution Streak"
 />
 
@@ -241,43 +253,75 @@ alt="Shridhar GitHub Contribution Streak"
 
 ---
 
-## &nbsp;🧠 &nbsp;Engineering Focus
+## &nbsp;⚡ &nbsp;What I Build
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-<strong>☁️ Cloud</strong><br/>
-<sub>AWS · Azure · GCP</sub>
-</td>
-
-<td align="center" width="25%">
-<strong>⚙️ DevOps</strong><br/>
-<sub>CI/CD · IaC · Automation</sub>
-</td>
-
-<td align="center" width="25%">
-<strong>☸️ Platform</strong><br/>
-<sub>Kubernetes · Docker · Linux</sub>
-</td>
-
-<td align="center" width="25%">
-<strong>🤖 AI Systems</strong><br/>
-<sub>RAG · Agents · LLM Automation</sub>
-</td>
-
-</tr>
-</table>
+### Engineering systems where **Cloud, DevOps and AI actually work together.**
 
 <br/>
 
-### ⚡ Building. Learning. Shipping.
+<table>
 
-`Cloud Architecture` &nbsp;•&nbsp; `DevOps Engineering` &nbsp;•&nbsp; `Platform Engineering` &nbsp;•&nbsp; `AI Systems`
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### ☁️ Cloud Platforms
+
+**Design for scale.**
+
+Multi-cloud infrastructure, resilient architecture, observability and cost-aware systems.
+
+`AWS` `Azure` `Terraform` `Kubernetes`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### ⚙️ Delivery Intelligence
+
+**Automate the path to production.**
+
+CI/CD automation, infrastructure-as-code and intelligent failure analysis that cuts debugging time.
+
+`CI/CD` `GitHub Actions` `Jenkins` `Ansible`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🤖 AI Engineering
+
+**Turn operational data into decisions.**
+
+RAG pipelines, agentic workflows and AI systems built around real engineering problems.
+
+`RAG` `LangChain` `Agents` `FastAPI`
+
+</td>
+
+</tr>
+
+</table>
 
 <br/><br/>
+
+### From infrastructure → automation → intelligence.
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=1100&color=A78BFA&center=true&vCenter=true&width=750&lines=Architect+reliable+cloud+systems.;Automate+everything+that+shouldn't+be+manual.;Use+AI+where+it+creates+measurable+engineering+value.;Build.+Observe.+Improve.+Repeat."
+alt="Engineering Philosophy"
+/>
+
+<br/><br/>
+
+`Cloud Architecture` &nbsp;•&nbsp;
+`DevOps Engineering` &nbsp;•&nbsp;
+`Platform Engineering` &nbsp;•&nbsp;
+`AI Systems`
+
+<br/><br/><br/>
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=140&section=footer&text=Let's%20build%20something%20LEGENDARY&fontSize=22&fontColor=A78BFA&fontAlignY=55&animation=fadeIn"
