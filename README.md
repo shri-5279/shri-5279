@@ -124,28 +124,96 @@ const shridhar = {
 <div align="center">
 
 <table>
+
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center" valign="middle">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rounded&color=0:4338CA,50:7C3AED,100:EC4899&height=105&section=header&text=%F0%9F%A4%96%20PipeLine%20AI&fontSize=28&fontColor=FFFFFF&fontAlignY=43&desc=AI-POWERED%20CI%2FCD%20INTELLIGENCE&descAlignY=70&descSize=11"
+src="https://capsule-render.vercel.app/api?type=rounded&color=0:4338CA,50:7C3AED,100:EC4899&height=100&section=header&text=%F0%9F%A4%96%20PipeLine%20AI&fontSize=25&fontColor=FFFFFF&fontAlignY=42&desc=CI%2FCD%20FAILURE%20INTELLIGENCE&descAlignY=70&descSize=11"
 width="100%"
 alt="PipeLine AI"
 />
 
+</td>
+
+<td width="33%" align="center" valign="middle">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rounded&color=0:0369A1,50:2563EB,100:7C3AED&height=100&section=header&text=%E2%98%81%EF%B8%8F%20MCRP&fontSize=25&fontColor=FFFFFF&fontAlignY=42&desc=MULTI-CLOUD%20RESOURCE%20PLATFORM&descAlignY=70&descSize=11"
+width="100%"
+alt="MCRP"
+/>
+
+</td>
+
+<td width="33%" align="center" valign="middle">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rounded&color=0:047857,50:0891B2,100:0EA5E9&height=100&section=header&text=%F0%9F%94%97%20IntelLink&fontSize=25&fontColor=FFFFFF&fontAlignY=42&desc=THREAT-AWARE%20URL%20INTELLIGENCE&descAlignY=70&descSize=11"
+width="100%"
+alt="IntelLink"
+/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center" valign="middle">
+
 <br/>
 
-<b>Turn pipeline failures into answers.</b>
+### Turn pipeline failures into answers.
 
-<br/><br/>
+</td>
 
-<sub>
-RAG-driven CI/CD log analysis that identifies root cause,
-explains failures and generates actionable remediation.
-</sub>
+<td width="33%" align="center" valign="middle">
 
-<br/><br/>
+<br/>
+
+### One view across every cloud.
+
+</td>
+
+<td width="33%" align="center" valign="middle">
+
+<br/>
+
+### Make every link security-aware.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center" valign="middle">
+
+RAG-powered analysis of CI/CD logs that detects root cause, explains failures and generates actionable remediation.
+
+</td>
+
+<td width="33%" align="center" valign="middle">
+
+Unified observability across AWS and Azure for infrastructure health, uptime, cost visibility and SLA monitoring.
+
+</td>
+
+<td width="33%" align="center" valign="middle">
+
+Intelligent URL shortening with real-time threat detection, click analytics and destination intelligence.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center" valign="middle">
+
+<br/>
 
 <code>40 min debugging</code>
 &nbsp;→&nbsp;
@@ -153,41 +221,11 @@ explains failures and generates actionable remediation.
 
 <br/><br/>
 
-<img
-src="https://skillicons.dev/icons?i=aws,python,fastapi,docker,terraform&theme=dark"
-height="45"
-alt="PipeLine AI Tech Stack"
-/>
-
-<br/><br/>
-
-<img
-src="https://img.shields.io/badge/LangChain-Agentic%20AI-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"
-alt="LangChain Agentic AI"
-/>
-
 </td>
 
-<td width="33%" align="center" valign="top">
-
-<img
-src="https://capsule-render.vercel.app/api?type=rounded&color=0:0369A1,50:2563EB,100:7C3AED&height=105&section=header&text=%E2%98%81%EF%B8%8F%20MCRP&fontSize=29&fontColor=FFFFFF&fontAlignY=43&desc=MULTI-CLOUD%20RESOURCE%20PLATFORM&descAlignY=70&descSize=11"
-width="100%"
-alt="MCRP"
-/>
+<td width="33%" align="center" valign="middle">
 
 <br/>
-
-<b>One view across every cloud.</b>
-
-<br/><br/>
-
-<sub>
-Unified AWS + Azure observability for cost,
-uptime, infrastructure health and SLA monitoring.
-</sub>
-
-<br/><br/>
 
 <code>AWS</code>
 &nbsp;+&nbsp;
@@ -197,41 +235,11 @@ uptime, infrastructure health and SLA monitoring.
 
 <br/><br/>
 
-<img
-src="https://skillicons.dev/icons?i=aws,azure,terraform,python,grafana&theme=dark"
-height="45"
-alt="MCRP Tech Stack"
-/>
-
-<br/><br/>
-
-<img
-src="https://img.shields.io/badge/Focus-Cloud%20Observability-2563EB?style=flat-square&logo=grafana&logoColor=white"
-alt="Cloud Observability"
-/>
-
 </td>
 
-<td width="33%" align="center" valign="top">
-
-<img
-src="https://capsule-render.vercel.app/api?type=rounded&color=0:047857,50:0891B2,100:0EA5E9&height=105&section=header&text=%F0%9F%94%97%20IntelLink&fontSize=28&fontColor=FFFFFF&fontAlignY=43&desc=THREAT-AWARE%20URL%20INTELLIGENCE&descAlignY=70&descSize=11"
-width="100%"
-alt="IntelLink"
-/>
+<td width="33%" align="center" valign="middle">
 
 <br/>
-
-<b>Make every link security-aware.</b>
-
-<br/><br/>
-
-<sub>
-Intelligent URL shortening with real-time threat detection,
-click analytics and destination intelligence.
-</sub>
-
-<br/><br/>
 
 <code>URL Shortener</code>
 &nbsp;+&nbsp;
@@ -239,29 +247,95 @@ click analytics and destination intelligence.
 
 <br/><br/>
 
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center" valign="middle">
+
 <img
-src="https://skillicons.dev/icons?i=python,redis,postgres,aws&theme=dark"
-height="45"
-alt="IntelLink Tech Stack"
+src="https://skillicons.dev/icons?i=aws,python,fastapi,docker,terraform&theme=dark"
+height="46"
+alt="PipeLine AI Technology Stack"
 />
 
-<br/><br/>
+</td>
+
+<td width="33%" align="center" valign="middle">
 
 <img
-src="https://img.shields.io/badge/Claude%20API-AI%20Analysis-7C3AED?style=flat-square&logo=anthropic&logoColor=white"
-alt="Claude API AI Analysis"
+src="https://skillicons.dev/icons?i=aws,azure,terraform,python,grafana&theme=dark"
+height="46"
+alt="MCRP Technology Stack"
+/>
+
+</td>
+
+<td width="33%" align="center" valign="middle">
+
+<img
+src="https://skillicons.dev/icons?i=python,redis,postgres,aws&theme=dark"
+height="46"
+alt="IntelLink Technology Stack"
 />
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="33%" align="center" valign="middle">
+
+<br/>
+
+<img
+src="https://img.shields.io/badge/LangChain-Agentic%20AI-1C3C3C?style=for-the-badge&logoColor=white"
+height="28"
+alt="LangChain Agentic AI"
+/>
+
+<br/><br/>
+
+</td>
+
+<td width="33%" align="center" valign="middle">
+
+<br/>
+
+<img
+src="https://img.shields.io/badge/Focus-Cloud%20Observability-2563EB?style=for-the-badge&logo=grafana&logoColor=white"
+height="28"
+alt="Cloud Observability"
+/>
+
+<br/><br/>
+
+</td>
+
+<td width="33%" align="center" valign="middle">
+
+<br/>
+
+<img
+src="https://img.shields.io/badge/Claude%20API-AI%20Analysis-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white"
+height="28"
+alt="Claude API AI Analysis"
+/>
+
+<br/><br/>
+
+</td>
+
+</tr>
+
 </table>
 
-<br/><br/>
+<br/>
 
-<b>Three projects. Three engineering problems. One builder mindset.</b>
-
-<br/><br/>
+### Three projects. Three engineering problems. One builder mindset.
 
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=PipeLine+AI+%E2%86%92+Make+CI%2FCD+failures+explain+themselves.;MCRP+%E2%86%92+Make+multi-cloud+infrastructure+observable.;IntelLink+%E2%86%92+Make+every+URL+security-aware."
@@ -287,6 +361,7 @@ alt="Shridhar Thangavel GitHub Profile Overview"
 <br/><br/>
 
 <table>
+
 <tr>
 
 <td width="25%" align="center" valign="top">
@@ -330,6 +405,7 @@ alt="Coding Activity by Time"
 </td>
 
 </tr>
+
 </table>
 
 <br/>
@@ -410,13 +486,15 @@ alt="Engineering Philosophy"
 <br/><br/>
 
 <p align="center">
-  ☁️ <b>Cloud Architecture</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  ⚙️ <b>DevOps Engineering</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🛠️ <b>Platform Engineering</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🤖 <b>AI Systems</b>
+
+☁️ <b>Cloud Architecture</b>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+⚙️ <b>DevOps Engineering</b>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🛠️ <b>Platform Engineering</b>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🤖 <b>AI Systems</b>
+
 </p>
 
 <br/><br/><br/>
