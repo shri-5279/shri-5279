@@ -130,7 +130,7 @@ const shridhar = {
 <td width="33%" align="center" valign="middle">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rounded&color=0:4338CA,50:7C3AED,100:EC4899&height=100&section=header&text=%F0%9F%A4%96%20PipeLine%20AI&fontSize=25&fontColor=FFFFFF&fontAlignY=42&desc=CI%2FCD%20FAILURE%20INTELLIGENCE&descAlignY=70&descSize=11"
+src="https://capsule-render.vercel.app/api?type=rounded&color=0:4338CA,50:7C3AED,100:EC4899&height=125&section=header&text=%F0%9F%A4%96%20PipeLine%20AI&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=CI%2FCD%20FAILURE%20INTELLIGENCE&descAlignY=69&descSize=14"
 width="100%"
 alt="PipeLine AI"
 />
@@ -140,7 +140,7 @@ alt="PipeLine AI"
 <td width="33%" align="center" valign="middle">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rounded&color=0:0369A1,50:2563EB,100:7C3AED&height=100&section=header&text=%E2%98%81%EF%B8%8F%20MCRP&fontSize=25&fontColor=FFFFFF&fontAlignY=42&desc=MULTI-CLOUD%20RESOURCE%20PLATFORM&descAlignY=70&descSize=11"
+src="https://capsule-render.vercel.app/api?type=rounded&color=0:0369A1,50:2563EB,100:7C3AED&height=125&section=header&text=%E2%98%81%EF%B8%8F%20MCRP&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=MULTI-CLOUD%20RESOURCE%20PLATFORM&descAlignY=69&descSize=14"
 width="100%"
 alt="MCRP"
 />
@@ -150,7 +150,7 @@ alt="MCRP"
 <td width="33%" align="center" valign="middle">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rounded&color=0:047857,50:0891B2,100:0EA5E9&height=100&section=header&text=%F0%9F%94%97%20IntelLink&fontSize=25&fontColor=FFFFFF&fontAlignY=42&desc=THREAT-AWARE%20URL%20INTELLIGENCE&descAlignY=70&descSize=11"
+src="https://capsule-render.vercel.app/api?type=rounded&color=0:047857,50:0891B2,100:0EA5E9&height=125&section=header&text=%F0%9F%94%97%20IntelLink&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=THREAT-AWARE%20URL%20INTELLIGENCE&descAlignY=69&descSize=14"
 width="100%"
 alt="IntelLink"
 />
