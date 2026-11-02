@@ -129,12 +129,14 @@ const shridhar = {
 <td width="33%" align="center" valign="top">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rounded&color=0:312E81,50:6D28D9,100:DB2777&height=135&section=header&text=PIPELINE%20AI&fontSize=27&fontColor=FFFFFF&fontAlignY=43&desc=AI%20%E2%80%A2%20CI%2FCD%20%E2%80%A2%20AUTOMATION&descAlignY=70&descSize=12"
+src="https://capsule-render.vercel.app/api?type=rounded&color=0:312E81,50:6D28D9,100:DB2777&height=120&section=header&text=%F0%9F%A4%96%20PIPELINE%20AI&fontSize=28&fontColor=FFFFFF&fontAlignY=40&desc=AI%20%E2%80%A2%20CI%2FCD%20%E2%80%A2%20AUTOMATION&descAlignY=68&descSize=12"
 width="100%"
 alt="Pipeline AI"
 />
 
-### 🤖 Pipeline AI
+<br/>
+
+### 🤖 &nbsp;PipeLine AI
 
 **AI-powered CI/CD failure intelligence**
 
@@ -144,23 +146,27 @@ Transforms noisy CI/CD logs into fast, actionable root-cause analysis using **RA
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=aws,python,fastapi,docker,terraform&theme=dark" width="90%" />
+<img src="https://skillicons.dev/icons?i=aws,python,fastapi,docker,terraform&theme=dark" height="48" />
 
 <br/><br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-Agentic_AI-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-Agentic_AI-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
 
 </td>
 
 <td width="33%" align="center" valign="top">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rounded&color=0:0369A1,50:2563EB,100:7C3AED&height=135&section=header&text=MCRP&fontSize=30&fontColor=FFFFFF&fontAlignY=43&desc=MULTI-CLOUD%20RESOURCE%20PLATFORM&descAlignY=70&descSize=11"
+src="https://capsule-render.vercel.app/api?type=rounded&color=0:0369A1,50:2563EB,100:7C3AED&height=120&section=header&text=%E2%98%81%EF%B8%8F%20MCRP&fontSize=30&fontColor=FFFFFF&fontAlignY=40&desc=MULTI-CLOUD%20RESOURCE%20PLATFORM&descAlignY=68&descSize=12"
 width="100%"
-alt="Multi Cloud Resource Platform"
+alt="MCRP"
 />
 
-### ☁️ MCRP
+<br/>
+
+### ☁️ &nbsp;MCRP
 
 **Multi-Cloud Resource Platform**
 
@@ -170,23 +176,27 @@ One observability layer across **AWS + Azure** for cost, uptime, health, SLA mon
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=aws,azure,terraform,python,grafana&theme=dark" width="90%" />
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,python,grafana&theme=dark" height="48" />
 
 <br/><br/>
 
-![Observability](https://img.shields.io/badge/Focus-Cloud_Observability-2563EB?style=flat-square&logo=grafana&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Focus-Cloud_Observability-2563EB?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
 
 </td>
 
 <td width="33%" align="center" valign="top">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rounded&color=0:064E3B,50:059669,100:0EA5E9&height=135&section=header&text=INTELLINK&fontSize=27&fontColor=FFFFFF&fontAlignY=43&desc=SECURITY%20%E2%80%A2%20ANALYTICS%20%E2%80%A2%20AI&descAlignY=70&descSize=12"
+src="https://capsule-render.vercel.app/api?type=rounded&color=0:064E3B,50:059669,100:0EA5E9&height=120&section=header&text=%F0%9F%94%97%20INTELLINK&fontSize=28&fontColor=FFFFFF&fontAlignY=40&desc=SECURITY%20%E2%80%A2%20ANALYTICS%20%E2%80%A2%20AI&descAlignY=68&descSize=12"
 width="100%"
 alt="IntelLink"
 />
 
-### 🔗 IntelLink
+<br/>
+
+### 🔗 &nbsp;IntelLink
 
 **Threat-aware intelligent URL platform**
 
@@ -196,11 +206,13 @@ Shortens URLs while scanning destinations for malicious content, tracking analyt
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,redis,postgres,aws&theme=dark" width="78%" />
+<img src="https://skillicons.dev/icons?i=python,redis,postgres,aws&theme=dark" height="48" />
 
 <br/><br/>
 
-![Claude](https://img.shields.io/badge/Claude_API-AI_Analysis-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Claude_API-AI_Analysis-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
 
 </td>
 
@@ -349,10 +361,15 @@ alt="Engineering Philosophy"
 
 <br/><br/>
 
-`Cloud Architecture` &nbsp;•&nbsp;
-`DevOps Engineering` &nbsp;•&nbsp;
-`Platform Engineering` &nbsp;•&nbsp;
-`AI Systems`
+<p align="center">
+  ☁️ <b>Cloud Architecture</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  ⚙️ <b>DevOps Engineering</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🛠️ <b>Platform Engineering</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🤖 <b>AI Systems</b>
+</p>
 
 <br/><br/><br/>
 
