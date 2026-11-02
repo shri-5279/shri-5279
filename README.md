@@ -123,65 +123,98 @@ const shridhar = {
 
 <div align="center">
 
-### 🤖 &nbsp;PipeLine AI
+<table>
+<tr>
 
-#### *AI-powered CI/CD failure analysis · RAG + Agentic AI*
+<td width="33%" align="center" valign="top">
 
-</div>
+<img
+src="https://capsule-render.vercel.app/api?type=rounded&color=0:312E81,50:6D28D9,100:DB2777&height=135&section=header&text=PIPELINE%20AI&fontSize=27&fontColor=FFFFFF&fontAlignY=43&desc=AI%20%E2%80%A2%20CI%2FCD%20%E2%80%A2%20AUTOMATION&descAlignY=70&descSize=12"
+width="100%"
+alt="Pipeline AI"
+/>
 
-> Transforms a 40-minute debugging nightmare into a **30-second root cause answer**. PipeLine AI ingests raw build logs, routes failures through a LangChain reasoning engine, and delivers precise, actionable remediation — no human in the loop required.
+### 🤖 Pipeline AI
 
-<div align="center">
+**AI-powered CI/CD failure intelligence**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+Transforms noisy CI/CD logs into fast, actionable root-cause analysis using **RAG + Agentic AI**.
 
-</div>
-
-<br/>
-
-<div align="center">
-
-### ☁️ &nbsp;MCRP — Multi-Cloud Resource Platform
-
-#### *Unified observability across AWS + Azure*
-
-</div>
-
-> Aggregates cost metrics, uptime data, and resource health from multiple cloud providers into **one unified dashboard**. Features anomaly detection, SLA breach alerts, and cross-cloud infrastructure comparison.
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</div>
+`40 min debugging` → **`30 sec diagnosis`**
 
 <br/>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,python,fastapi,docker,terraform&theme=dark" width="90%" />
 
-### 🔗 &nbsp;IntelLink
+<br/><br/>
 
-#### *AI URL shortener with threat intelligence*
+![LangChain](https://img.shields.io/badge/LangChain-Agentic_AI-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 
-</div>
+</td>
 
-> Not just a shortener — IntelLink **scans every destination URL for malicious content in real time**, tracks click analytics with geographic breakdowns, and surfaces smart usage patterns. Built for security-conscious teams that need insight, not just links.
+<td width="33%" align="center" valign="top">
 
-<div align="center">
+<img
+src="https://capsule-render.vercel.app/api?type=rounded&color=0:0369A1,50:2563EB,100:7C3AED&height=135&section=header&text=MCRP&fontSize=30&fontColor=FFFFFF&fontAlignY=43&desc=MULTI-CLOUD%20RESOURCE%20PLATFORM&descAlignY=70&descSize=11"
+width="100%"
+alt="Multi Cloud Resource Platform"
+/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS SQS](https://img.shields.io/badge/SQS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-7c3aed?style=flat-square&logo=anthropic&logoColor=white)
+### ☁️ MCRP
+
+**Multi-Cloud Resource Platform**
+
+One observability layer across **AWS + Azure** for cost, uptime, health, SLA monitoring and infrastructure comparison.
+
+`AWS` + `Azure` → **`One Control Plane`**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,python,grafana&theme=dark" width="90%" />
+
+<br/><br/>
+
+![Observability](https://img.shields.io/badge/Focus-Cloud_Observability-2563EB?style=flat-square&logo=grafana&logoColor=white)
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rounded&color=0:064E3B,50:059669,100:0EA5E9&height=135&section=header&text=INTELLINK&fontSize=27&fontColor=FFFFFF&fontAlignY=43&desc=SECURITY%20%E2%80%A2%20ANALYTICS%20%E2%80%A2%20AI&descAlignY=70&descSize=12"
+width="100%"
+alt="IntelLink"
+/>
+
+### 🔗 IntelLink
+
+**Threat-aware intelligent URL platform**
+
+Shortens URLs while scanning destinations for malicious content, tracking analytics and surfacing security intelligence.
+
+`URL Shortener` + `Threat Intelligence`
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,redis,postgres,aws&theme=dark" width="78%" />
+
+<br/><br/>
+
+![Claude](https://img.shields.io/badge/Claude_API-AI_Analysis-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+### Three projects. Three infrastructure problems. One engineering philosophy.
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Pipeline+AI+%E2%86%92+Make+CI%2FCD+failures+explain+themselves.;MCRP+%E2%86%92+Make+multi-cloud+infrastructure+observable.;IntelLink+%E2%86%92+Make+every+URL+security-aware."
+alt="Project Philosophy"
+/>
 
 </div>
 
